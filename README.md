@@ -30,6 +30,7 @@ You may study `testCaclulate1` as a sample. This test case should make a connect
 What benefit do we have from having integration tests in our project?
 ```
 Your though here
+We have benefits like improved software quality, faster bug detection, and increased confidence in the reliability of our project.
 ```
 
 
